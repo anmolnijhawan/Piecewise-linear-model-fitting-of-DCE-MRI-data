@@ -1,0 +1,2 @@
+# Piecewise-linear-model-fitting-of-DCE-MRI-data
+Purpose of this project was to implement piecewise linear model for DCE-MRI data analysis as a Mex File using C and compare results with MATLAB based implementation in term of accuracy and speed. For this purpose LM and trust regions based algorithms are implemented and evaluated in term of accuracy and performance using simulated as well as real human brain DCE-MRI data.
